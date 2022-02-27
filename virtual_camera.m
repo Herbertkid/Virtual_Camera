@@ -1,8 +1,4 @@
-%///////////////////////////////////%
-%       ELG5163                     %
-%       Winter 2022                 %
-%       Zhao Zhang UO330220138      %
-%///////////////////////////////////%
+
 clear;
 %################## Image auto generate section #####################%
 % The image will automatically be saved in the same folder !!!
