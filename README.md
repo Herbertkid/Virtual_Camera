@@ -1,4 +1,5 @@
 # Virtual_Camera
+You can run the code with matlab.m file to explore the application
 Use Matlab to create a virtual camera
 I use the 3D Scene like this:
 ![scence-rgb](scence-rgb.jpg)
